@@ -1,5 +1,7 @@
 # Business_Alumini-Portal
 
+![hp](https://github.com/user-attachments/assets/8ab3feeb-1105-48b1-99dd-f5ea3fd787d8)
+
 
 ## Overview
 The **Business Alumni Portal** is a web-based platform built using HTML, CSS, and JavaScript. 
