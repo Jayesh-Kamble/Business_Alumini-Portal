@@ -11,7 +11,7 @@ The portal provides features like user registration, login, and alumni networkin
 ## Features
 - **User Registration and Login**: Alumni can register with their email and password and securely log into the platform.
 - **Alumni Directory**: Alumni can browse through the list of registered users to reconnect with old classmates.
-- **Opportunities Section**: Users can post and discover job opportunities, events, or other professional advancements.
+- **Opportunities Section**: Users can post and discover job opportunities, events and other professional advancements.
 - **Community Contributions**: Alumni can contribute to discussions, share success stories, and offer mentorship.
   
 ## Tech Stack
